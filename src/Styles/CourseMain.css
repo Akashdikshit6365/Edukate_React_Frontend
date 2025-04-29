@@ -1,0 +1,39 @@
+/* Button Styling */
+.btn-detail {
+  display: inline-block;
+  padding: 10px 25px;
+  background: #4389ce;
+  color: #fff;
+  border-radius: 30px;
+  font-weight: 600;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(20px);
+}
+
+/* Show button on hover */
+.modern-card:hover .btn-detail,
+.modern-card:focus-within .btn-detail,
+.modern-card:active .btn-detail {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+/* Make sure it's centered */
+.courses-text .btn-detail {
+  margin: 10px auto 0;
+  display: block;
+}
+
+/* Mobile-friendly visibility */
+@media (max-width: 767px) {
+  .modern-card:active .btn-detail {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+}
