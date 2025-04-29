@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Edukate_React_Frontend/static/css/main.33bf4318.css",
+    "main.js": "/Edukate_React_Frontend/static/js/main.d1835e82.js",
+    "static/media/fa-solid-900.ttf": "/Edukate_React_Frontend/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/Edukate_React_Frontend/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/Edukate_React_Frontend/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/Edukate_React_Frontend/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/header.jpg": "/Edukate_React_Frontend/static/media/header.4af3cfd5f90c5cce7752.jpg",
+    "static/media/fa-regular-400.ttf": "/Edukate_React_Frontend/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/page-header.jpg": "/Edukate_React_Frontend/static/media/page-header.e5a4e1dee8a47f6a9f53.jpg",
+    "static/media/feature.jpg": "/Edukate_React_Frontend/static/media/feature.cf4e552642777011de11.jpg",
+    "static/media/courses-6.jpg": "/Edukate_React_Frontend/static/media/courses-6.19ece65496c248cccd33.jpg",
+    "static/media/courses-1.jpg": "/Edukate_React_Frontend/static/media/courses-1.3bd74178531844e33b93.jpg",
+    "static/media/overlay-top.png": "/Edukate_React_Frontend/static/media/overlay-top.131b853048844d143b04.png",
+    "static/media/overlay-bottom.png": "/Edukate_React_Frontend/static/media/overlay-bottom.eadc21f8b7f66f849bdd.png",
+    "static/media/about.jpg": "/Edukate_React_Frontend/static/media/about.9aa4603e2a4d3b107286.jpg",
+    "static/media/courses-5.jpg": "/Edukate_React_Frontend/static/media/courses-5.3ea6b6543616f2819128.jpg",
+    "static/media/courses-3.jpg": "/Edukate_React_Frontend/static/media/courses-3.d0eda58e39bd34374a9a.jpg",
+    "static/media/courses-4.jpg": "/Edukate_React_Frontend/static/media/courses-4.d975c706c457942077cf.jpg",
+    "static/media/courses-2.jpg": "/Edukate_React_Frontend/static/media/courses-2.a042e77aef6905cf68d1.jpg",
+    "static/media/fa-regular-400.woff2": "/Edukate_React_Frontend/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/team-4.jpg": "/Edukate_React_Frontend/static/media/team-4.2a028bd432f9a171a1b1.jpg",
+    "static/media/team-1.jpg": "/Edukate_React_Frontend/static/media/team-1.51d0e700219d0aa1dc8f.jpg",
+    "static/media/team-2.jpg": "/Edukate_React_Frontend/static/media/team-2.ead16493e835883f1f67.jpg",
+    "static/media/bg-image.jpg": "/Edukate_React_Frontend/static/media/bg-image.e37783c7595d0704b372.jpg",
+    "static/media/team-3.jpg": "/Edukate_React_Frontend/static/media/team-3.335cf01d604721698927.jpg",
+    "static/media/fa-v4compatibility.ttf": "/Edukate_React_Frontend/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Edukate_React_Frontend/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "static/media/slick.svg": "/Edukate_React_Frontend/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Edukate_React_Frontend/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Edukate_React_Frontend/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Edukate_React_Frontend/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Edukate_React_Frontend/index.html",
+    "main.33bf4318.css.map": "/Edukate_React_Frontend/static/css/main.33bf4318.css.map",
+    "main.d1835e82.js.map": "/Edukate_React_Frontend/static/js/main.d1835e82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33bf4318.css",
+    "static/js/main.d1835e82.js"
+  ]
+}
